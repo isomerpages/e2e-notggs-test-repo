@@ -1,0 +1,5 @@
+collections:
+  default:
+    output: true
+    order:
+      - Lorem Ipsum.md

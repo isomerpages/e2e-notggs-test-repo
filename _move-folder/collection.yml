@@ -1,0 +1,9 @@
+collections:
+  move-folder:
+    output: true
+    order:
+      - Move subfolder/Move from subfolder to folder.md
+      - Move subfolder/Move from subfolder to Workspace.md
+      - Move subfolder/.keep
+      - Move from folder to subfolder.md
+      - Move from folder to Workspace.md
