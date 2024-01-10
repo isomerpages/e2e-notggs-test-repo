@@ -1,6 +1,7 @@
 ---
 title: Test Unlinked Page
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+lorem ipsum
