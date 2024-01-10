@@ -1,6 +1,6 @@
-contact_us: contact/
+contact_us: testcontact/
 show_reach: true
-faq: /faq/
+faq: /faqpagetest/
 social_media:
   facebook: https://www.facebook.com/testfb
   twitter: https://www.twitter.com/testtwitter
@@ -9,4 +9,4 @@ social_media:
   linkedin: https://www.linkedin.com/company/testagency
   telegram: https://telegram.me/testagency
   tiktok: https://tiktok.com/@testTiktok
-feedback: www.feedback.com
+feedback: www.feedbacktest.com
