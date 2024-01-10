@@ -2,5 +2,6 @@ collections:
   default:
     output: true
     order:
+      - Test subfolder title with page/.keep
       - Test subfolder title no pages/.keep
       - Lorem Ipsum.md
