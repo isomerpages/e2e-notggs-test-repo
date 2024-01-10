@@ -4,4 +4,4 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
-script async src="//www.instagram.com/embed.js"&gt;lorem ipsum
+script&gt;alert("hello")script async src="//www.instagram.com/embed.js"&gt;lorem ipsum
