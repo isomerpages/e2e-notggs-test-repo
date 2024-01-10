@@ -2,11 +2,11 @@ contact_us: contact/
 show_reach: true
 faq: /faq/
 social_media:
-  facebook: https://www.facebook.com/YourFBPageTestEdit
-  twitter: https://www.twitter.com/YourTwitter
-  youtube: https://www.youtube.com/YourYoutube
-  instagram: https://www.instagram.com/yourinsta/
-  linkedin: https://www.linkedin.com/company/YourAgency
-  telegram: https://t.me/youragency
-  tiktok: https://tiktok.com/@YourTiktok
+  facebook: https://www.facebook.com/testfb
+  twitter: https://www.twitter.com/testtwitter
+  youtube: https://www.youtube.com/testyoutube
+  instagram: https://www.instagram.com/testinsta/
+  linkedin: https://www.linkedin.com/company/testagency
+  telegram: https://telegram.me/testagency
+  tiktok: https://tiktok.com/@testTiktok
 feedback: www.feedback.com
