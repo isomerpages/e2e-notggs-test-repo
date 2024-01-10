@@ -2,6 +2,6 @@ collections:
   default:
     output: true
     order:
-      - Test subfolder title with page/Lorem Ipsum.md
-      - Test subfolder title with page/.keep
+      - Edited subfolder with pages/Lorem Ipsum.md
+      - Edited subfolder with pages/.keep
       - Test subfolder title no pages/.keep
