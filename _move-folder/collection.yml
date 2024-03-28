@@ -5,5 +5,4 @@ collections:
       - Move from Workspace to folder.md
       - Move subfolder/Move from folder to subfolder.md
       - Move subfolder/Move from Workspace to subfolder.md
-      - Move subfolder/Move from subfolder to folder.md
       - Move subfolder/.keep
